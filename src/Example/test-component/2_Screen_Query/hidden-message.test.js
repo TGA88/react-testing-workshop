@@ -1,7 +1,7 @@
 import * as React from 'react'
 import { render, screen, waitFor } from '@testing-library/react'
 import userEvent from '@testing-library/user-event'
-import { HiddenMessage } from '../2_Screen_Query/hidden-message'
+import { HiddenMessage } from './hidden-message'
 
 // jest.mock('react-transition-group', () => {
 //     return {

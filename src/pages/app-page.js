@@ -1,4 +1,4 @@
-import AppForm from '@src/Example/Test-Integration/app'
+import AppForm from '@src/Example/test-integration/app'
 import React from 'react'
 import ReactDOM from 'react-dom'
 
